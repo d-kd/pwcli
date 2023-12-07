@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "randpwcli",
+  "version": "1.0.0",
+  "description": "random password generator",
+  "main": "app.js",
+  "bin": {
+    "pw": "bin/app.js"
+  },
+  "scripts": {
+    "test": "node bin/app.js"
+  },
+  "keywords": [
+    "cli",
+    "command",
+    "line",
+    "terminal",
+    "command",
+    "password",
+    "generator"
+  ],
+  "author": "idkcli",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "child_process": "^1.0.2",
+    "clipboardy": "^4.0.0"
+  }
+}
