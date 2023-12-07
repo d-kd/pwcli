@@ -10,7 +10,7 @@ Just install and run the $pw command and 🪄✨
 ## Installation
 
 ```sh
-npm i -g pwcli
+npm i -g randpwcli
 ```
 
 ## Usage
